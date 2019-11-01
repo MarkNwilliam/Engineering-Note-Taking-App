@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Engineering Tutor Series</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Engineering Tutor</string>
+    <string name="nav_header_subtitle">nkugwamarkwilliam@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_video">Videos</string>
+    <string name="menu_lecture">Lecture Notes </string>
+    <string name="menu_community">Community Blog </string>
+
+    <string name="menu_Past_Papers">Past papers</string>
+    <string name="menu_timetable">Notifications and time table</string>
+    <string name="menu_upload">Share notes</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Talk to Lecturer</string>
+    <string name="title_activity_edit">Edit</string>
+</resources>
